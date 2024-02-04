@@ -8,8 +8,6 @@ To learn HTML/CSS, these properties offer various designs and figurative illustr
 
 
 
-
-
 ## Tecnologie Utilizzate
 
 - HTML5
