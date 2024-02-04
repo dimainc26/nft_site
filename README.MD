@@ -1,9 +1,20 @@
-HTML CSS project to practice
+# FinanceX - Responsive Web page 
+## CFF
 
-title: NFT World Art Landing Page
-start date: 26/11/2023 
-end date: 24/11/2023 
-category: HTML/CSS 
-HTML/CSS my property: @mediaQuery
+To learn HTML/CSS, these properties offer various designs and figurative illustrations. Eccone also spoke about NFT.
 
-inspiration: www.dribbble.com
+## Screenshot
+
+
+
+
+
+
+## Tecnologie Utilizzate
+
+- HTML5
+- CSS3
+
+## Caratteristiche
+
+- Responsive
