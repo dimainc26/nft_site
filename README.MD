@@ -16,7 +16,7 @@
 ![screenshot_04_02_2024 16-01-55](https://github.com/dimainc26/finance_site/assets/125144533/b8558747-3e0c-4683-9a5e-7535c6722733)
 
 ## Démo
-[Lien vers la démo](https://dev.dimazanre.com/nft_webpage)
+[Lien vers la démo](https://dev.dimazanre.com/nft)
 
 ## Contributions
 Les contributions sont les bienvenues. N'hésitez pas à soumettre des pull requests ou à ouvrir des issues pour discuter des améliorations.
