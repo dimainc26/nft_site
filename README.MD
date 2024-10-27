@@ -12,11 +12,10 @@
 - CSS
 
 ## Captures d'écran
-![Home Screen](https://github.com/dimainc26/nft_webpage/blob/main/assets/home.png)
-![screenshot_04_02_2024 16-01-55](https://github.com/dimainc26/finance_site/assets/125144533/b8558747-3e0c-4683-9a5e-7535c6722733)
+![Home Screen](https://github.com/dimainc26/nft_site/blob/main/assets/home.png)
 
 ## Démo
-[Lien vers la démo](https://dev.dimazanre.com/nft)
+[Lien vers la démo](https://dev.dimazanre.com/nft_site)
 
 ## Contributions
 Les contributions sont les bienvenues. N'hésitez pas à soumettre des pull requests ou à ouvrir des issues pour discuter des améliorations.
